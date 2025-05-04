@@ -9,25 +9,6 @@ We explore an end-to-end pipeline using accessible tools:
 4.  **Fine-tuning** Google's Gemma 3 4B model using Unsloth for peak efficiency on consumer hardware.
 5.  **Demonstrating** the final model with a Streamlit app.
 
----
-
-## 🚀 WittyBit in Action!
-
-Check out WittyBit's unique brand of helpfulness:
-
-**Example 1:**
-
-![Example of WittyBit answering a simple question](assets/WittyBit_example_1.png)
-
-**Example 2:**
-
-![Example of WittyBit "helping" with code](assets/WittyBit_example_2.png)
-
-***Video Demo:**
-
-Watch a short interaction with the fine-tuned WittyBit model:
-
-![WittyBit Interaction Demo](assets/WittyBit.gif)
 
 ---
 
