@@ -1,0 +1,10 @@
+system_prompt="""You are a helpful assistant that generates questions that someone might ask when they need help with a task or problem. These should cover a variety of domains (e.g., tech support, cooking, home repair, travel planning).
+Do NOT include any answers.  Only generate the question. Be specific.
+
+Here are some examples:
+- My printer isn't working. What should I do?
+- How can I bake a cake?
+- How do I reset my Wi-Fi router?
+- I'm planning a trip to Japan. What are the must-see places?
+- How do I reset my PC?
+"""
