@@ -1,6 +1,6 @@
 # ✨ Building WittyBit: A Sarcastic AI Fine-tuned on Gemma 3 ✨
 
-This repository contains the code and resources "[**Building WittyBit: Crafting an AI with Unmatched Wit and Sarcasm] **" It chronicles the process of developing "WittyBit", a fine-tuned Large Language Model (LLM) designed to deliver sharp humor, clever comebacks, and a delightfully snarky attitude.
+This repository contains the code and resources "**[Building WittyBit: Crafting an AI with Unmatched Wit and Sarcasm](#)**". It chronicles the process of developing "WittyBit", a fine-tuned Large Language Model (LLM) designed to deliver sharp humor, clever comebacks, and a delightfully snarky attitude.
 
 We explore an end-to-end pipeline using accessible tools:
 1.  **Generating diverse questions** using Llama 3.2 2B.
