@@ -1,4 +1,4 @@
-# ✨ Building WittyBit: A Sarcastic AI Fine-tuned on Gemma 3 ✨
+#  Building WittyBit: A Sarcastic AI Fine-tuned on Gemma 3 
 
 This repository contains the code and resources "**[Building WittyBit: Crafting an AI with Unmatched Wit and Sarcasm](#)**". It chronicles the process of developing "WittyBit", a fine-tuned Large Language Model (LLM) designed to deliver sharp humor, clever comebacks, and a delightfully snarky attitude.
 
@@ -27,12 +27,7 @@ We explore an end-to-end pipeline using accessible tools:
 ## 📂 Repository Structure
 ```plaintext
 WittyBitAI-Finetune/
-│
-├── assets/ # Images and videos for README
-│ ├── WittyBit_example_1.png
-│ ├── WittyBit_example_2.png
-│ └── video.mp4
-│
+
 ├── notebooks/ # Jupyter notebooks for the workflow
 │ ├── 01_generate_questions.ipynb
 │ ├── 02_generate_responses.ipynb
@@ -88,13 +83,6 @@ Follow the notebooks in the `notebooks/` directory in numerical order.
     *   **What it does:** Loads the base Gemma 3 4B model and merges the fine-tuned LoRA adapter weights saved in Step 4. It then launches a simple Streamlit application within the notebook environment to interactively chat with your fine-tuned WittyBit AI.
     *   **Input:** Path to the saved LoRA adapter weights from Step 4.
 
----
-
-## 📝 Blog Post
-
-For a detailed explanation of the process, motivation, and learnings, please read the accompanying Medium article:
-
-[**Building WittyBit: My Journey of Creating a Hilariously Sarcastic AI with LLMs**](https://medium.com/@Revanth_Regeti/building-WittyBit-my-journey-of-creating-a-hilariously-sarcastic-ai-with-llms-0e9e52cb715d)
 
 ---
 
@@ -110,7 +98,7 @@ Note that the base models used (Llama 3.2, Gemma 3) have their own licenses that
 
 Feel free to connect if you have questions or want to discuss AI fine-tuning!
 
-*   **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/masoob/)]
+*   **LinkedIn:** [https://www.linkedin.com/in/masoob/]
 ---
 
-Happy Fine-tuning! Let me know if WittyBit gives you too much sass. 😉
+Happy Fine-tuning! Let me know if WittyBit gives you too much sass. 
