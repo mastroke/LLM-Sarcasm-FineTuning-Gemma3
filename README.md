@@ -1,5 +1,7 @@
 # LLM Fine-Tuning Eval Lab
 
+> Legacy repository name: `LLM-Sarcasm-FineTuning-Gemma3`. This project now hosts the upgraded fine-tuning and evaluation workflow.
+
 Reproducible fine-tuning and evaluation workflow for LLM classification tasks, upgraded from notebook-only experimentation into a reviewable engineering project.
 
 The first task is sarcasm classification inspired by the original Gemma fine-tuning work. The repo keeps the baseline lightweight so CI can run without GPUs, while the docs explain how to extend it to full model fine-tuning.
